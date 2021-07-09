@@ -1,0 +1,6 @@
+{
+  "themes": {
+    "dark": "text-gray-800 border-gray-800",
+    "light": "text-white border-white"
+  }
+}

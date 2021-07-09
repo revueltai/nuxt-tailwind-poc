@@ -1,0 +1,18 @@
+{
+  "sizes": {
+    "none": null,
+    "xsmall": "xs",
+    "small": "sm",
+    "medium": "lg",
+    "large": "3x",
+    "xlarge": "5x"
+  },
+  "themes": {
+    "dark": "text-gray-800",
+    "light": "text-white"
+  },
+  "types": {
+    "solid": "fas",
+    "brand": "fab"
+  }
+}

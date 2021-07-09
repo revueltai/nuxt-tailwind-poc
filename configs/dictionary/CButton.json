@@ -1,0 +1,16 @@
+{
+  "shapes": {
+    "square": "none",
+    "round": "xl",
+    "circle": "full"
+  },
+  "modes": {
+    "none": "none",
+    "solid": "solid",
+    "ghost": "ghost"
+  },
+  "themes": {
+    "dark": "dark",
+    "light": "light"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "roundness": {
+    "none": "none",
+    "small": "sm",
+    "medium": "lg",
+    "large": "xl",
+    "full": "full"
+  }
+}

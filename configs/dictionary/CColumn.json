@@ -1,0 +1,10 @@
+{
+  "childrenGaps": {
+    "none": "gap-0",
+    "xsmall": "gap-2",
+    "small": "gap-4",
+    "medium": "gap-8",
+    "large": "gap-10",
+    "xlarge": "gap-20"
+  }
+}

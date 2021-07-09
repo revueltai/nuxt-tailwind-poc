@@ -1,0 +1,18 @@
+{
+  "roundness": {
+    "none": "none",
+    "small": "sm",
+    "medium": "lg",
+    "large": "xl",
+    "full": "full"
+  },
+  "sizes": {
+    "none": null,
+    "xsmall": "8",
+    "small": "16",
+    "medium": "48",
+    "large": "56",
+    "xlarge": "64",
+    "full": "full"
+  }
+}

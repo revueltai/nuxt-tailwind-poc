@@ -1,0 +1,58 @@
+{
+  "main": [
+    {
+      "id": "about",
+      "name": "About",
+      "link": "#about"
+    },
+    {
+      "id": "findings",
+      "name": "Findings",
+      "link": "#findings"
+    },
+    {
+      "id": "rankings",
+      "name": "Rankings",
+      "link": "#rankings"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "link": "#contact"
+    }
+  ],
+  "secondary": [
+    {
+      "id": "imprint",
+      "name": "Imprint",
+      "link": "#imprint"
+    },
+    {
+      "id": "terms",
+      "name": "Terms",
+      "link": "#term"
+    },
+    {
+      "id": "privacy",
+      "name": "Privacy Policy",
+      "link": "#privacy"
+    }
+  ],
+  "tertiary": [
+    {
+      "id": "linkedin",
+      "name": "linkedin",
+      "link": "https://www.linkedin.com/"
+    },
+    {
+      "id": "facebook",
+      "name": "facebook-square",
+      "link": "https://www.facebook.com/"
+    },
+    {
+      "id": "instagram",
+      "name": "instagram",
+      "link": "https://www.linkedin.com/"
+    }
+  ]
+}
